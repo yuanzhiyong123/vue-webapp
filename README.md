@@ -1,6 +1,6 @@
 # vue-demo
 
-> A Vue.js project
+> 采用vue2.0开发的一个仿饿了么外卖app小demo，项目很简单，主要用于vue学习。
 
 ## Build Setup
 
